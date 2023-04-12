@@ -1,0 +1,13 @@
+
+easyocr
+opencv-python
+matplotlib 
+numpy
+pandas 
+
+pytesseract 
+Pillow
+
+spacy
+
+IPython
